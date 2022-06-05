@@ -11,3 +11,10 @@ git add .
 git commit -m "initial commit"
 git remote add origin https://github.com/ramvallamsetty/ShoppingCartJS.gi
 git push origin master   
+
+
+Create a new branch from vscode: develop
+make changes
+git add .
+git commit -m "message"
+git push --set-upstream origin develop
