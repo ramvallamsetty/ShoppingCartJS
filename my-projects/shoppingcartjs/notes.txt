@@ -3,3 +3,11 @@ icons.getbootstrap.com
 
 Colors:
 cooler.co
+
+github:
+git config --global user.email "rvallamsetty@gmail.com"
+git config --global user.name "ram vallamsetty "
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/ramvallamsetty/ShoppingCartJS.gi
+git push origin master   
